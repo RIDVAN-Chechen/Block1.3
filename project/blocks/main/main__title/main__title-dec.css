@@ -1,0 +1,9 @@
+.main__title-dec{
+    position:absolute;
+    width: 8px;
+    height: inherit;
+    margin-left: -4px;
+    background-color: #41F6D7;
+    border-radius: 4px;
+
+}

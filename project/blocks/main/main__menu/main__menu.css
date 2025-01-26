@@ -1,0 +1,12 @@
+@import "main__menu-item/main__menu-item.css";
+@import "main__menu-wrapper/main__menu-wrapper.css";
+.main__menu{
+    display: flex;
+    overflow: scroll;
+}
+@media(min-width: 1120px){
+    .main__menu{
+        display: flex;
+        overflow: hidden;
+    }
+}

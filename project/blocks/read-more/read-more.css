@@ -1,0 +1,17 @@
+@import "read-more__wrapper/read-more__wrapper.css";
+
+.read-more{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    width: 132px;
+    color: #000;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+}
+.read-more:hover{
+    border: 2px solid #80949F;
+    transition: border 0.1s;
+    border-radius: 4px;
+}

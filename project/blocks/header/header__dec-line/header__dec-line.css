@@ -1,0 +1,14 @@
+@import "header__dec-line_screen/header__dec-line_screen.css";
+
+.header__dec-line{
+    width: 2px;
+    height: 32px;
+    background-color: #EAEAEA;
+    border-radius: 1px;
+}
+@media(min-width: 1120px){
+    .header__dec-line{
+        display: none;
+    }
+    }
+    

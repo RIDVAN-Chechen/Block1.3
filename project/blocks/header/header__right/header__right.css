@@ -1,0 +1,6 @@
+@import "header__right_screen/header__right_screen.css";
+.header__right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,6 @@
+@import "main__title-text.css";
+@import "main__title-dec.css";
+.main__title{
+    display: flex;
+    height: 40px;
+}
