@@ -1,6 +1,0 @@
-@import "header__item_screen/header__item_screen.css";
-.header__item img:hover{
-    border: 2px solid #80949F;
-    transition: border 0.1s;
-    border-radius: 100%;
-}
