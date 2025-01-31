@@ -41,6 +41,7 @@
 @media(min-width: 1120px){
     .main__menu-list{
         display: flex;
+        overflow: auto;
         justify-content: space-around;
     }
 }
