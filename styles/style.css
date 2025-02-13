@@ -6,7 +6,12 @@
 @import "../project/blocks/main.css";
 @import "../project/blocks/read-more.css";
 @import "../project/blocks/logo.css";
-
+@import "../project/blocks/mobile-menu.css";
+@import "../project/blocks/link.css";
+@import "../project/blocks/mail.css";
+@import "../project/blocks/number.css";
+@import "../project/blocks/button.css";
+@import "../project/blocks/change-language.css";
 
 
 
